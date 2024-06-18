@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S21",
+        "price": 1299.9,
+        "stock": 10,
+        "category": "Smartphone",
+        "description": "Tem uma grande tela de 6.2 polegadas com uma resolução de 2400x1080 pixels. As funcionalidades oferecidas pelo Samsung Galaxy S21 são muitas e inovadorass."
+    },
+    {
+        "id": 2,
+        "name": "Harry Potter - Ordem da Fenix",
+        "price": 99.99,
+        "stock": 2,
+        "category": "Livros",
+        "description":"Harry Potter and the Order of the Phoenix é o quinto livro dos sete volumes da série de fantasia Harry Potter, tanto em termos cronológicos como em ordem de publicação, da autora inglesa J. K. Rowling."
+    }
+]
